@@ -41,7 +41,7 @@ jobs:
         uses: docker/login-action@v3
         with:
           username: saitejas0511@gmail.com
-          password: Sailentt@55
+          password: Sailentt@5555
           
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
